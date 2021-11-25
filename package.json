@@ -1,0 +1,19 @@
+{
+  "name": "kline_history",
+  "version": "1.0.0",
+  "description": "kline_history by yxf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xufeng9588/kline_history.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xufeng9588/kline_history/issues"
+  },
+  "homepage": "https://github.com/xufeng9588/kline_history#readme"
+}
